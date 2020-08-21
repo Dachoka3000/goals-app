@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+// import{Newgoal} from './newgoal';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Goal';
+  // goals:Newgoal[]= [
+  //   {id:1, name:'Watch finding Nemo'},
+  //   {id:2, name:'Buy cookies'},
+  //   {id:3, name:'Wash clothes'},
+  //   {id:4, name:'Eat avocados'},
+  //   {id:5, name:'Get cat food'},
+  // ]
+
+
 }
